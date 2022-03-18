@@ -47,3 +47,33 @@
 
 ![image](https://user-images.githubusercontent.com/101684058/158960122-4f72eeb4-6e1c-42c1-9185-78e766ef2abd.png)
 
+# Sử dụng IIS trên Windows Server 2019
+1. Chạy Powershell với quyền admin và cấu hình
+2. Chạy Start > Server Manager và nhấp vào Tools > Internet Information Services (IIS) Manager
+
+![image](https://user-images.githubusercontent.com/101684058/158963632-53864bb6-0294-44cd-98ec-917880463d38.png)
+
+3. Mở các mục ở bảng điều khiển bên trái, Default Web Site được cấu hình.
+
+![image](https://user-images.githubusercontent.com/101684058/158963939-38402c06-a4e6-4d15-a2c0-e242bb388118.png)
+
+4. Chọn Default Web Site và nhấp vào Advanced Settings..., sau đó có thể xác nhận các cài đặt như Physical Path (Document Root), v.v...
+
+![image](https://user-images.githubusercontent.com/101684058/158964264-f832db80-d398-4ac9-8093-045155a8b30b.png)
+
+5. Mở Default Document, sau đó có thể xác nhận các tài liệu mặc định.
+
+![image](https://user-images.githubusercontent.com/101684058/158965228-00a4d2ad-6e1e-46ef-a204-58e7eeec6cab.png)
+
+6. Bạn có thể xem các tài liệu mặc định
+
+![image](https://user-images.githubusercontent.com/101684058/158965321-16b4fd92-6a78-4e3d-a1b0-65a46572eb8e.png)
+
+7. Tạo trang test trong Physical Path (Document Root) và xác minh quyền truy cập bằng trình duyệt web.
+
+![image](https://user-images.githubusercontent.com/101684058/158965594-ab1f213b-4ac4-4215-98c2-f0aa92c26d2b.png)
+
+
+![image](https://user-images.githubusercontent.com/101684058/158965849-ecc348ae-d256-409c-aedc-2e7f32b5e020.png)
+
+
