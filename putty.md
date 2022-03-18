@@ -53,4 +53,8 @@ Khi phần mềm bắt đầu, bạn sẽ nhận được một cửa sổ với
 
 ![image](https://user-images.githubusercontent.com/101684058/158936945-5745ff6a-4350-47d5-ab22-fb4bf2308f88.png)
 
+#### Xóa file 
+
+![image](https://user-images.githubusercontent.com/101684058/158952118-cc30904b-1cff-4c32-a47a-b7dd1025333f.png)
+
 
