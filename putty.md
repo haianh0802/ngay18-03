@@ -33,7 +33,7 @@ Khi phần mềm bắt đầu, bạn sẽ nhận được một cửa sổ với
 
 ![image](https://user-images.githubusercontent.com/101684058/158934970-e3b5fedf-c5b6-4ec5-9d66-430d65317bd2.png)
 
-# Chạy thử các lệnh trên Putty để điều khiển Centos7 
+# Chạy thử một số lệnh trên Putty để điều khiển Centos7 
 
 #### Tạo mới file
 
