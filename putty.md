@@ -32,3 +32,25 @@ Khi phần mềm bắt đầu, bạn sẽ nhận được một cửa sổ với
 
 
 ![image](https://user-images.githubusercontent.com/101684058/158934970-e3b5fedf-c5b6-4ec5-9d66-430d65317bd2.png)
+
+# Chạy thử các lệnh trên Putty để điều khiển Centos7 
+
+#### Tạo mới file
+
+![image](https://user-images.githubusercontent.com/101684058/158935781-ce1e9ba4-95c6-4b7e-a9d4-9cc7fbc713bf.png)
+
+#### Hiển thị vị trí hiện tại trong hệ thống file 
+
+![image](https://user-images.githubusercontent.com/101684058/158936452-38d4bba1-50d8-42a8-8ef1-7e779f6b5cd2.png)
+
+#### Hiển thị quyền, kích thước file, ngày giờ cập nhật
+
+![image](https://user-images.githubusercontent.com/101684058/158936621-013b472d-09fe-4e1b-9fa2-088e1076e0b4.png)
+
+![image](https://user-images.githubusercontent.com/101684058/158936697-be3b346c-8001-43ec-bef0-3bb8652121e5.png)
+
+#### Liệt kê các lệnh đã đưa ra trước đó
+
+![image](https://user-images.githubusercontent.com/101684058/158936945-5745ff6a-4350-47d5-ab22-fb4bf2308f88.png)
+
+
