@@ -76,14 +76,7 @@ Nhấn i để chuyển sang chế độ INSERT và thêm HTML mẫu vào file:
 
 /var/www/haianh.com/html/index.html
 
-<html>
-  <head>
-    <title>Welcome to haianh.com!</title>
-  </head>
-  <body>
-    <h1>   PHAM HAI ANH  </h1>
-  </body>
-</html>
+![image](https://user-images.githubusercontent.com/101684058/159195333-8ee9f76d-63b7-4710-9c86-603a9125d773.png)
 
 lưu và đóng file bằng cách nhấn ESC, nhập :wq và nhấn ENTER.
 
@@ -137,7 +130,7 @@ Việc đặt chính sách Apache trên phạm vi rộng sẽ yêu cầu SELinux
 Chạy lệnh sau để đặt một chính sách Apache chung:
 
 sudo setsebool -P httpd_unified 1
-Bash
+
 Lệnh setsebool thay đổi giá trị boolean của SELinux. Flag -P sẽ cập nhật giá trị boot-time. Điều này làm các thay đổi vẫn giữ nguyên sau các lần khởi động lại. httpd_unified là boolean yêu cầu SELinux xử lý tất cả các quy trình thuộc cùng một loại. Vì vậy hãy bật nó với giá trị là 1.
 
 # Điều chỉnh chính sách Apache trên directory
